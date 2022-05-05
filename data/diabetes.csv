@@ -1,4 +1,4 @@
-quantidade_gravidez,concentracao_glicose,pressao,espessura_triceps,insulina,imc,diabetes_pedigree,idade,resultado
+pregnancy_quantity,glicose_concentration,pressure,triceps_width,insulina,imc,diabetes_pedigree,age,result
 6,148,72,35,0,33.6,0.627,50,testado_positivo
 1,85,66,29,0,26.6,0.351,31,testado_negativo
 8,183,64,0,0,23.3,0.672,32,testado_positivo
